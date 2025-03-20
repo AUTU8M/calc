@@ -26,6 +26,7 @@ class CalcButton extends StatelessWidget {
           color: color,
         ),
         alignment: Alignment.center,
+
         child: Text(
           label,
           style: TextStyle(
